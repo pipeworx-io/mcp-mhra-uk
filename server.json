@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/mhra-uk",
   "title": "Mhra Uk",
-  "description": "MHRA (UK Medicines and Healthcare products Regulatory Agency) — the public",
-  "version": "0.1.2",
+  "description": "MHRA (UK Medicines and Healthcare products Regulatory Agency) — the public products register…",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/mhra-uk",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-mhra-uk",
